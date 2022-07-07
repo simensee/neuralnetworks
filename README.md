@@ -1,2 +1,2 @@
-# knowmber
-Simple neural network-program to recognize number from images
+# neuralnetworks
+Simple project to use neural networks and machine learning.
